@@ -5,13 +5,15 @@ Timer app for demo purpose.
 
 
 
+## Screenshots
+
+![App Screenshot](https://i2.paste.pics/HL3RY.png)
+
+
 ## Tech Stack
 
 **Client:** React
 
-
-## 🔗 Links
-![URL](https://i2.paste.pics/HL3RY.png)
 
 ## Installation
 
@@ -23,3 +25,8 @@ Install my-project with npm
   yarn start
 ```
     
+# React Timer 
+
+https://react-timer-pi.vercel.app/
+
+
